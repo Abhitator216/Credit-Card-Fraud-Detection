@@ -15,3 +15,6 @@ Model Evaluation: Evaluating the model performance using metrics like accuracy, 
 
 
 Overall, the goal of this project would be to build a highly accurate model that can detect fraudulent credit card transactions in real-time, to help protect customers and financial institutions from financial losses due to fraud.
+
+#Dataset
+Link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
